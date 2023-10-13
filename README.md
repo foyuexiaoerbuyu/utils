@@ -58,5 +58,7 @@ implementation 'com.github.itxiaox:utils:Tag'
 	See the License for the specific language governing permissions and
 	limitations under the License.
 
- 
+
+ [![](https://jitpack.io/v/foyuexiaoerbuyu/utils.svg)](https://jitpack.io/#foyuexiaoerbuyu/utils)
+
  
